@@ -1,5 +1,5 @@
 "use strict";
-(self["webpackChunkcopy_password_plugin"] = self["webpackChunkcopy_password_plugin"] || []).push([[989],{
+(self["webpackChunkcopy_password_plugin"] = self["webpackChunkcopy_password_plugin"] || []).push([[704],{
 
 /***/ 3989:
 /***/ ((module, __webpack_exports__, __webpack_require__) => {
